@@ -2,3 +2,14 @@
 <link rel="stylesheet" href="styles.css">
 <title>yuri</title>
 </head>
+body{
+  color: purple;
+  background: bllack;
+  margin: 0px;
+}
+header {
+  boder-bottom: solid 2px rgb(42, 122, 228);
+  padding: 20px;
+  font-size: 32px;
+  color: rgb(42, 122, 228);
+}
